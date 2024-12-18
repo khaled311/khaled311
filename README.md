@@ -8,8 +8,6 @@ I specialize in building sleek, user-friendly interfaces using modern web techno
 - **Styling**: Tailwind CSS, SCSS, CSS-in-JS  
 - **State Management**: Redux, Zustand, React Query  
 - **Tooling**: Webpack, Vite, ESLint, Prettier  
-- **Icons**: Lucide.dev  
-- **Libraries**: Fuse.js, CASL.js  
 
 🌟 **Passion for Code**  
 I enjoy crafting intuitive user experiences and diving into challenging problems to deliver impactful solutions. I constantly explore new technologies to stay ahead in the ever-evolving tech landscape.
