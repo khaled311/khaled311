@@ -15,14 +15,13 @@ I enjoy crafting intuitive user experiences and diving into challenging problems
 📈 **What I’m Working On**  
 - Enhancing skills with **CASL.js** for better role-based access control.  
 - Building dynamic and scalable UIs with **React.js** and **TypeScript**.  
-- Experimenting with **lucide.dev** for modern, customizable icons.  
 
 💬 **Let’s Connect**  
 I’m open to collaborating on exciting projects, sharing knowledge, or discussing the latest trends in web development. Feel free to reach out!
 
 📫 **Find me here**:  
-- Email: [your-email@example.com]  
-- LinkedIn: [Your LinkedIn](#)  
+- Email: k.sarhan311@gmail.com  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ksarhan311/)  
 - GitHub: [@khaled311](https://github.com/khaled311)  
 
 🚀 **Fun Fact**  
