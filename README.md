@@ -79,9 +79,6 @@ Senior Front-End Engineer with **5+ years** of experience delivering scalable, h
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khaled311&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khaled311&theme=radical" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=khaled311&theme=radical&hide_border=true&fire=e25822&ring=b00000&currStreakLabel=e25822" width="48%" />
 </p>
