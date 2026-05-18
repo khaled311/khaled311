@@ -1,12 +1,11 @@
-<h1 align="center">Khaled Sarhan</h1>
-<h3 align="center">Senior Front-End Engineer &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; TypeScript</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,40:6b0000,70:b00000,100:e25822&height=220&section=header&text=Khaled%20Sarhan&fontSize=58&fontColor=f5e6d3&fontAlignY=40&desc=Senior%20Front-End%20Engineer&descAlignY=62&descSize=20&descColor=e25822&animation=fadeIn" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ksarhan311/"><img src="https://img.shields.io/badge/LinkedIn-ksarhan311-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:k.sarhan311@gmail.com"><img src="https://img.shields.io/badge/Email-k.sarhan311%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:k.sarhan311@gmail.com"><img src="https://img.shields.io/badge/Email-k.sarhan311%40gmail.com-b00000?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://github.com/khaled311"><img src="https://img.shields.io/badge/GitHub-khaled311-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/khaled311"><img src="https://img.shields.io/badge/GitHub-khaled311-0d0d0d?style=flat-square&logo=github&logoColor=e25822" /></a>
 </p>
 
 ---
@@ -20,16 +19,16 @@ Senior Front-End Engineer with **5+ years** of experience delivering scalable, h
 **Core**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=e25822)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **State Management & Data Fetching**  
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![SWR](https://img.shields.io/badge/SWR-000000?style=flat-square&logo=vercel&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-2d1b1b?style=flat-square&logo=react&logoColor=e25822)
+![React Query](https://img.shields.io/badge/React_Query-b00000?style=flat-square&logo=reactquery&logoColor=white)
+![SWR](https://img.shields.io/badge/SWR-0d0d0d?style=flat-square&logo=vercel&logoColor=white)
 
 **UI & Styling**  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -39,20 +38,20 @@ Senior Front-End Engineer with **5+ years** of experience delivering scalable, h
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
 
 **Architecture & Rendering**  
-![SSR](https://img.shields.io/badge/SSR-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![SSG](https://img.shields.io/badge/SSG-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![SSR](https://img.shields.io/badge/SSR-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=e25822)
+![SSG](https://img.shields.io/badge/SSG-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=e25822)
+![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-6b0000?style=flat-square&logo=webpack&logoColor=white)
 
 **CMS & Platforms**  
 ![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
 
 **Tooling & Quality**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-b00000?style=flat-square&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-6b0000?style=flat-square&logo=jest&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Webpack](https://img.shields.io/badge/Webpack-2d1b1b?style=flat-square&logo=webpack&logoColor=8DD6F9)
 
 ---
 
@@ -70,8 +69,8 @@ Senior Front-End Engineer with **5+ years** of experience delivering scalable, h
 
 ## Currently Exploring
 
-- **CASL.js** — fine-grained RBAC/ABAC permission systems in React
 - **Micro-frontend architecture** — module federation patterns with Webpack 5
+- **React Server Components** — leveraging Next.js App Router for maximum performance
 - **Core Web Vitals** — LCP, CLS, and INP optimisation at scale
 
 ---
@@ -79,17 +78,13 @@ Senior Front-End Engineer with **5+ years** of experience delivering scalable, h
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaled311&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled311&theme=github-dark-blue&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khaled311&show_icons=true&theme=radical&hide_border=true&count_private=true&icon_color=e25822&title_color=e25822" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=khaled311&theme=radical&hide_border=true&fire=e25822&ring=b00000&currStreakLabel=e25822" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled311&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled311&layout=compact&theme=radical&hide_border=true&langs_count=6&title_color=e25822" width="40%" />
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ksarhan311/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:k.sarhan311@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://github.com/khaled311">GitHub</a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e25822,40:b00000,70:6b0000,100:0d0000&height=120&section=footer" />
