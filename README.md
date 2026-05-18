@@ -69,9 +69,10 @@ Senior Front-End Engineer with **5+ years** of experience delivering scalable, h
 
 ## Currently Exploring
 
-- **Micro-frontend architecture** — module federation patterns with Webpack 5
-- **React Server Components** — leveraging Next.js App Router for maximum performance
-- **Core Web Vitals** — LCP, CLS, and INP optimisation at scale
+- **Micro-frontend architecture** — module federation, independent deployability, and bounded-context UI boundaries
+- **Scalable frontend system design** — domain-driven folder structures, clean architecture layers, and feature-sliced design
+- **Monorepo architecture** — shared component libraries and tooling with Nx and Turborepo
+- **Design systems at scale** — token-driven theming, compound component patterns, and Storybook-driven development
 
 ---
 
