@@ -59,7 +59,8 @@ Senior Front-End Engineer with **5+ years** of experience delivering scalable, h
 
 | Period | Role | Company | Domain |
 |--------|------|---------|--------|
-| Mar 2025 – Present | Senior Frontend Developer | Nahdi | eCommerce · Healthcare |
+| Jun 2026 – Present | Senior Frontend Developer | SDAIA | Government · AI & Data |
+| Mar 2025 – Apr 2026 | Senior Frontend Developer | Nahdi | eCommerce · Healthcare |
 | Dec 2024 – Mar 2025 | Frontend Team Lead | V-Verse *(part-time)* | Multi-module SaaS |
 | Nov 2023 – Nov 2024 | Senior Frontend Developer | SDAIA | Government · AI & Data |
 | Oct 2021 – Nov 2023 | Frontend Developer | Techytypes | Data Analytics |
