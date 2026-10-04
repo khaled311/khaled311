@@ -1,0 +1,105 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_EG1.xml.gz"
+
+# --- Egypt: General / Entertainment ---
+
+#EXTINF:-1 tvg-id="AlMasriyah.eg@SD" group-title="Egypt | General",Al Masriyah
+http://185.9.2.18/chid_247/index.m3u8
+
+#EXTINF:-1 tvg-id="AlGhadPlus.eg@SD" group-title="Egypt | General",Al Ghad Plus
+https://playlist.fasttvcdn.com/pl/ykvm3f2fhokwxqsurp9xcg/alghad-plus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlGhadTV.eg@SD" group-title="Egypt | General",Al Ghad TV
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+
+#EXTINF:-1 tvg-id="AlhayatTV.eg@SD" group-title="Egypt | General",Al Hayat
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBC.eg@SD" group-title="Egypt | General",CBC
+https://flu.systemnet.tv/CBC/index.m3u8
+
+#EXTINF:-1 tvg-id="CBCDrama.eg@SD" group-title="Egypt | Series",CBC Drama
+https://flu.systemnet.tv/CBCDrama/index.m3u8
+
+#EXTINF:-1 tvg-id="CBCSofra.eg@SD" group-title="Egypt | Lifestyle",CBC Sofra
+https://flu.systemnet.tv/CBCSofra/index.m3u8
+
+#EXTINF:-1 tvg-id="DMC.eg@SD" group-title="Egypt | General",DMC
+https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OnE.eg@SD" group-title="Egypt | General",ON E
+https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="MBC1Egypt.eg@HD" group-title="Egypt | General",MBC 1 Egypt
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasr.eg@SD" group-title="Egypt | General",MBC Masr
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasr2.eg@SD" group-title="Egypt | General",MBC Masr 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+
+#EXTINF:-1 tvg-id="MixHollywood.eg@SD" group-title="Egypt | Movies",Mix Hollywood
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg@SD" group-title="Egypt | Movies",Rotana Cinema Egypt
+#EXTVLCOPT:http-referrer=https://rotana.net/
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeN.eg@SD" group-title="Egypt | General",TeN [Geo-blocked in some regions]
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+
+
+# --- Egypt: News ---
+
+#EXTINF:-1 tvg-id="AlQaheraNews.eg@SD" group-title="Egypt | News",Al Qahera News
+https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElsharqTV.tr@SD" group-title="Egypt | News",Elsharq TV
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WatanTV.eg@SD" group-title="Egypt | News",Watan TV
+https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
+
+
+# --- Egypt: Music / Radio TV ---
+
+#EXTINF:-1 tvg-id="Mazzika.eg@SD" group-title="Egypt | Music",Mazzika
+http://149.100.11.235:8080/Mazzika/index.m3u8
+
+#EXTINF:-1 tvg-id="NogoumFMTV.eg@SD" group-title="Egypt | Music",Nogoum FM TV
+https://nogoumtv.nrpstream.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ElRadio9090FM.eg@SD" group-title="Egypt | Radio TV",El Radio 9090 FM
+https://9090video.mobtada.com/hls/stream.m3u8
+
+
+# --- Egypt: Kids / Religious ---
+
+#EXTINF:-1 tvg-id="AghapyTV.eg@SD" group-title="Egypt | Religious",Aghapy TV
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATVSat.us@SD" group-title="Egypt | Religious",ATVSat
+https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CopticTV.eg@SD" group-title="Egypt | Religious",Coptic TV
+https://ctv.icopts.app/CTV/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="HudaTV.eg@SD" group-title="Egypt | Religious",Huda TV
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+
+#EXTINF:-1 tvg-id="KoogiTV.eg@SD" group-title="Egypt | Kids",Koogi TV
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlfathTV.eg@SD" group-title="Egypt | Religious",Alfath TV
+https://alfat7-q.com:5443/LiveApp/streams/515112551489055772942045.m3u8
+
+#EXTINF:-1 tvg-id="AlfathSonnahTV.eg@SD" group-title="Egypt | Religious",Alfath Sonnah TV
+https://alfat7-q.com:5443/LiveApp/streams/986613792230697141226562.m3u8
+
+#EXTINF:-1 tvg-id="AlfathAtfalTV.eg@SD" group-title="Egypt | Kids",Alfath Atfal TV
+https://alfat7-q.com:5443/LiveApp/streams/434833549141598440488987.m3u8
+
+
+# --- ON Time Sports status ---
+# ON Time Sports 1 / 2 / 3 are intentionally not included:
+# no verified public HLS stream was available at playlist creation time.
